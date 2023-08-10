@@ -11,8 +11,8 @@ import Signin from "../views/Signin.vue";
 const routes = [
   {
     path: "/",
-    name: "/",
-    redirect: "/dashboard-default",
+    name: "/Signin",
+    redirect: "/signin",
   },
   {
     path: "/dashboard-default",
